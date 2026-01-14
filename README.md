@@ -7,4 +7,4 @@ This is a fork of the original OpenList repository, optimized for faster access 
 ## Features
 
 This repository contains all the content of the original repository, with additional features added.
-- 3D model viewing with 3DViewer
+- 3D model viewing with 3DViewer (https://github.com/kovacsv/Online3DViewer)
